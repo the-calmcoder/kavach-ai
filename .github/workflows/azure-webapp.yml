@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 
 env:
-  AZURE_WEBAPP_NAME: 'voiceguard-ai'   # set this to your application's name
+  AZURE_WEBAPP_NAME: 'kavach-ai-app-2026'   # set this to your application's name
   PYTHON_VERSION: '3.11'               # set this to the python version to use
 
 jobs:
