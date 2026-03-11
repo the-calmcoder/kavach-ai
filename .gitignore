@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+ENV/
+.env
+
+# Azure logs and deployment artifacts
+azure_logs*/
+*.zip
+.deployment
+azure_deploy.ps1
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

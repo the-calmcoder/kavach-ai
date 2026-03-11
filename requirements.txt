@@ -1,0 +1,20 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+flask==3.0.0
+flask-cors==4.0.0
+gunicorn==21.2.0
+torch
+transformers
+librosa
+numpy
+scikit-learn
+joblib
+soundfile
+scipy
+praat-parselmouth
+matplotlib
+seaborn
+pydantic>=2.0
+pandas==2.1.4
+openai-whisper
+sentence-transformers
+flask-limiter==3.5.0
