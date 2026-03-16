@@ -238,7 +238,7 @@ Click **"Clear History"** to remove all locally stored analysis results from you
 
 ## About
 
-Kavach AI was built for the **Microsoft AI Unlocked Competition**, combining state-of-the-art deep learning with a practical, accessible interface to help everyday users protect themselves from the growing threat of AI-powered phone fraud.
+Kavach AI combines state-of-the-art deep learning with a practical, accessible interface to help everyday users protect themselves from the growing threat of AI-powered phone fraud.
 
 *All audio processing is performed securely. Your audio files and personal data are never stored on Kavach AI's servers.*
 
